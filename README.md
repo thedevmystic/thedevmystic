@@ -69,7 +69,7 @@ I'm currently focused on building my **Personal Website** along with developing*
 
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=TheDevMystic&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevMystic&layout=donut&langs_count=6&hide=scss,css&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevMystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
