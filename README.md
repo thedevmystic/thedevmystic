@@ -36,7 +36,7 @@ I want to **learn, understand and appreciate** our programming world as well as 
 
 ### 🚀 Current Focus
 
-I'm currently focused on building my **Personal Website** along with developing**Mystic Framework's Core**.
+I'm currently focused on building my **Personal Website** along with developing **Mystic Framework's Core**.
 
 ---
 
