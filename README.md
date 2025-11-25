@@ -1,6 +1,6 @@
 ## ✨ Welcome to Surya's Bizzare Adventures! ✨
 
-![Profile Photo](https://raw.githubusercontent.com/TheDevMystic/TheDevMystic/refs/heads/main/banner.png)
+![Profile Photo](https://raw.githubusercontent.com/thedevmystic/thedevmystic/refs/heads/main/banner.png)
 
 ---
 
@@ -44,10 +44,10 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 <p align="center">
   
-[![MysticCore Pin](https://github-readme-stats.vercel.app/api/pin/?username=TheDevMystic&repo=MysticCore&theme=gruvbox)](https://github.com/TheDevMystic/MysticCore)
-[![MysticLibc Pin](https://github-readme-stats.vercel.app/api/pin/?username=TheDevMystic&repo=MysticLibc&theme=gruvbox)](https://github.com/TheDevMystic/MysticLibc)
-[![MysticGameEngine Pin](https://github-readme-stats.vercel.app/api/pin/?username=TheDevMystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/TheDevMystic/MysticGameEngine)
-[![MysticWebsite Pin](https://github-readme-stats.vercel.app/api/pin/?username=TheDevMystic&repo=MysticWebsite&theme=gruvbox)](https://github.com/TheDevMystic/MysticWebsite)
+[![MysticCore Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticCore&theme=gruvbox)](https://github.com/thedevmystic/MysticCore)
+[![MysticLibc Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticLibc&theme=gruvbox)](https://github.com/thedevmystic/MysticLibc)
+[![MysticGameEngine Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/thedevmystic/MysticGameEngine)
+[![MysticWebsite Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticWebsite&theme=gruvbox)](https://github.com/thedevmystic/MysticWebsite)
 
 </p>
 
@@ -65,9 +65,9 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 ### 📊 GitHub Stats
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=TheDevMystic&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=thedevmystic&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevMystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
