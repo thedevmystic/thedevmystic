@@ -45,7 +45,7 @@ I'm currently focused on building my **Personal Website** along with developing 
 <p align="center">
   
 [![MysticCore Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticCore&theme=gruvbox)](https://github.com/thedevmystic/MysticCore)
-[![MysticLibc Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticLibc&theme=gruvbox)](https://github.com/thedevmystic/MysticLibc)
+[![MysticLibc Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_libc&theme=gruvbox)](https://github.com/thedevmystic/MysticLibc)
 [![MysticGameEngine Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/thedevmystic/MysticGameEngine)
 [![mystic_website pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_website&theme=gruvbox)](https://github.com/thedevmystic/mystic_website)
 
