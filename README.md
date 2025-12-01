@@ -1,6 +1,6 @@
 ## ✨ Welcome to Surya's Bizzare Adventures! ✨
 
-![Profile Photo](https://raw.githubusercontent.com/thedevmystic/thedevmystic/refs/heads/main/banner.png)
+![profile photo](https://raw.githubusercontent.com/thedevmystic/thedevmystic/refs/heads/main/banner.png)
 
 ---
 
@@ -8,13 +8,13 @@
 
 <p align="center">
   
-![C](https://img.shields.io/badge/C-ebdbb2?style=for-the-badge&logo=c&logoColor=458588)
-![C++](https://img.shields.io/badge/C%2B%2B-ebdbb2?style=for-the-badge&logo=cplusplus&logoColor=458588)
-![Python](https://img.shields.io/badge/Python-b8bb26?style=for-the-badge&logo=python&logoColor=000000)
-![System Programming](https://img.shields.io/badge/System_Programming-d79921?style=for-the-badge&logo=linux&logoColor=000000)
-![Framework Dev](https://img.shields.io/badge/Framework_Developer-458588?style=for-the-badge&logo=git&logoColor=ebdbb2)
-![Game Dev](https://img.shields.io/badge/Game_Development-fb4934?style=for-the-badge&logo=unity&logoColor=000000)
-![Web Dev](https://img.shields.io/badge/Web_Development-fabd2f?style=for-the-badge&logo=html5&logoColor=000000)
+![c](https://img.shields.io/badge/C-ebdbb2?style=for-the-badge&logo=c&logoColor=458588)
+![c++](https://img.shields.io/badge/C%2B%2B-ebdbb2?style=for-the-badge&logo=cplusplus&logoColor=458588)
+![python](https://img.shields.io/badge/Python-b8bb26?style=for-the-badge&logo=python&logoColor=000000)
+![system programming](https://img.shields.io/badge/System_Programming-d79921?style=for-the-badge&logo=linux&logoColor=000000)
+![framework dev](https://img.shields.io/badge/Framework_Developer-458588?style=for-the-badge&logo=git&logoColor=ebdbb2)
+![game dev](https://img.shields.io/badge/Game_Development-fb4934?style=for-the-badge&logo=unity&logoColor=000000)
+![web dev](https://img.shields.io/badge/Web_Development-fabd2f?style=for-the-badge&logo=html5&logoColor=000000)
 
 </p>
 
@@ -44,8 +44,8 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 <p align="center">
   
-[![MysticCore Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticCore&theme=gruvbox)](https://github.com/thedevmystic/MysticCore)
-[![mystic_libc Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_libc&theme=gruvbox)](https://github.com/thedevmystic/mystic_libc)
+[![mystic_core pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_core&theme=gruvbox)](https://github.com/thedevmystic/mystic_core)
+[![mystic_libc pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_libc&theme=gruvbox)](https://github.com/thedevmystic/mystic_libc)
 [![MysticGameEngine Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/thedevmystic/MysticGameEngine)
 [![mystic_website pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_website&theme=gruvbox)](https://github.com/thedevmystic/mystic_website)
 
@@ -65,9 +65,9 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 ### 📊 GitHub Stats
 
-[![Profile Stats](https://github-readme-stats.vercel.app/api?username=thedevmystic&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![profile stats](https://github-readme-stats.vercel.app/api?username=thedevmystic&show_icons=true&theme=gruvbox)](https://github.com/thedevmystic)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/thedevmystic)
 
 ---
 
