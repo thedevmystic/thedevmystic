@@ -43,7 +43,7 @@ I'm currently focused on building my **Personal Website** along with developing 
 ### 🌟 Featured Projects
 
 <p align="center">
-  
+
 [![mystic_core pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_core&theme=gruvbox)](https://github.com/thedevmystic/mystic_core)
 [![mystic_libc pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_libc&theme=gruvbox)](https://github.com/thedevmystic/mystic_libc)
 [![MysticGameEngine Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/thedevmystic/MysticGameEngine)
