@@ -44,10 +44,10 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 <p align="center">
 
-[![mystic_core pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_core&theme=gruvbox)](https://github.com/thedevmystic/mystic_core)
-[![mystic_libc pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_libc&theme=gruvbox)](https://github.com/thedevmystic/mystic_libc)
-[![MysticGameEngine Pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/thedevmystic/MysticGameEngine)
-[![mystic_website pin](https://github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_website&theme=gruvbox)](https://github.com/thedevmystic/mystic_website)
+[![mystic_core pin](https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_core&theme=gruvbox)](https://github.com/thedevmystic/mystic_core)
+[![mystic_libc pin](https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_libc&theme=gruvbox)](https://github.com/thedevmystic/mystic_libc)
+[![MysticGameEngine Pin](https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=MysticGameEngine&theme=gruvbox)](https://github.com/thedevmystic/MysticGameEngine)
+[![mystic_website pin](https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=mystic_website&theme=gruvbox)](https://github.com/thedevmystic/mystic_website)
 
 </p>
 
@@ -57,7 +57,7 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 <p align="center">
   
-[![ros2_controllers Pin](https://github-readme-stats.vercel.app/api/pin/?username=ros-controls&repo=ros2_controllers&theme=gruvbox)](https://github.com/ros-controls/ros2_controllers)
+[![ros2_controllers Pin](https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=ros-controls&repo=ros2_controllers&theme=gruvbox)](https://github.com/ros-controls/ros2_controllers)
 
 </p>
 
@@ -65,9 +65,9 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 ### 📊 GitHub Stats
 
-[![profile stats](https://github-readme-stats.vercel.app/api?username=thedevmystic&show_icons=true&theme=gruvbox)](https://github.com/thedevmystic)
+[![profile stats](https://thedevmystic-github-readme-stats.vercel.app/api?username=thedevmystic&show_icons=true&theme=gruvbox)](https://github.com/thedevmystic)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/thedevmystic)
+[![top languages](https://thedevmystic-github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=donut&langs_count=6&hide=scss,html,css&theme=gruvbox)](https://github.com/thedevmystic)
 
 ---
 
