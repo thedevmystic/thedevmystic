@@ -67,7 +67,7 @@ I'm currently focused on building my **Personal Website** along with developing 
 
 [![profile stats](https://thedevmystic-github-readme-stats.vercel.app/api?username=thedevmystic&show_icons=true&theme=gruvbox)](https://github.com/thedevmystic)
 
-[![top languages](https://thedevmystic-github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=compact&langs_count=6&hide=scss,html,css,javascript&theme=gruvbox)](https://github.com/thedevmystic)
+[![top languages](https://thedevmystic-github-readme-stats.vercel.app/api/top-langs/?username=thedevmystic&layout=donut&langs_count=6&hide=scss,html,css,javascript&theme=gruvbox)](https://github.com/thedevmystic)
 
 ---
 
