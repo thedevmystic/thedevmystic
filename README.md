@@ -34,7 +34,7 @@
     src="https://img.shields.io/badge/Framework_Developer-458588?style=for-the-badge&logo=git&logoColor=ebdbb2"
     alt="Framework Development"
   />
-  <wbr />
+  <br />
   <img
     src="https://img.shields.io/badge/Game_Development-fb4934?style=for-the-badge&logo=unity&logoColor=000000"
     alt="Game Development"
