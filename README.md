@@ -97,6 +97,12 @@ Currently building a modern professional tier personal **website**.
 # Featured
 
 <p align="center">
+  <a href="https://github.com/thedevmystic/next-tokens">
+    <img
+      src="https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=next-tokens&theme=gruvbox"
+      alt="next-tokens"
+    />
+  </a>
   <a href="https://github.com/thedevmystic/thedevmystic.github.io">
     <img
       src="https://thedevmystic-github-readme-stats.vercel.app/api/pin/?username=thedevmystic&repo=thedevmystic.github.io&theme=gruvbox"
